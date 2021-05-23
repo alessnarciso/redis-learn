@@ -7,5 +7,5 @@ To launch server and cli on MacOS:
 redis-server & redis-cli
 
 Commands:
->> get {key}
->> FLUSHALL
+- get {key}
+- FLUSHALL
